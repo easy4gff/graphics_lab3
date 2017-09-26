@@ -1,1 +1,10 @@
 D:\Programming\Computer Graphics\lab3_cooperative\lab3_task1\bin\Debug\lab3_task1.exe.config
+D:\Programming\Computer Graphics\lab3_cooperative\graphics_lab3\lab3_task1\bin\Debug\lab3_task1.exe.config
+D:\Programming\Computer Graphics\lab3_cooperative\graphics_lab3\lab3_task1\bin\Debug\lab3_task1.exe
+D:\Programming\Computer Graphics\lab3_cooperative\graphics_lab3\lab3_task1\bin\Debug\lab3_task1.pdb
+D:\Programming\Computer Graphics\lab3_cooperative\graphics_lab3\lab3_task1\obj\Debug\lab3_task1.csprojResolveAssemblyReference.cache
+D:\Programming\Computer Graphics\lab3_cooperative\graphics_lab3\lab3_task1\obj\Debug\lab3_task1.Properties.Resources.resources
+D:\Programming\Computer Graphics\lab3_cooperative\graphics_lab3\lab3_task1\obj\Debug\lab3_task1.csproj.GenerateResource.Cache
+D:\Programming\Computer Graphics\lab3_cooperative\graphics_lab3\lab3_task1\obj\Debug\lab3_task1.exe
+D:\Programming\Computer Graphics\lab3_cooperative\graphics_lab3\lab3_task1\obj\Debug\lab3_task1.pdb
+D:\Programming\Computer Graphics\lab3_cooperative\graphics_lab3\lab3_task1\obj\Debug\lab3_task1.Form1.resources
