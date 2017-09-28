@@ -326,10 +326,21 @@ namespace lab3_task1
             }
         }
 
+        // Инициализация выпадающего списка
+        private void initComboBox()
+        {
+            comboBox1.Items.AddRange(new string[] {
+               "Немасштабируемая заливка",
+               "Масштабируемая заливка"
+            });
+            comboBox1.SelectedIndex = 0;
+        }
+
         // Конструктор формы
         public Form1()
         {
             InitializeComponent();
+            initComboBox();
             mainBitMap = new Bitmap(pictureBox1.Width, pictureBox1.Height);
             pictureBox1.Image = mainBitMap;
             g = Graphics.FromImage(pictureBox1.Image);
@@ -364,8 +375,13 @@ namespace lab3_task1
             {
                 chosenColor = mainBitMap.GetPixel(e.X, e.Y);
                 //floodFillByLine(e.Location);
-               // floodFillByImageCommon(e.Location);
-                floodFillByImageScaled(e.Location);
+                if (comboBox1.SelectedIndex == 0)
+                {
+                    floodFillByImageCommon(e.Location);
+                }
+                else {
+                    floodFillByImageScaled(e.Location);
+                }
             }
         }
 
@@ -394,6 +410,7 @@ namespace lab3_task1
                         {
                             Size fillImageSize = new Size(pictureBox1.Width, pictureBox1.Height);
                             fillImage = new Bitmap(myStream);
+                            pictureBox2.Image = new Bitmap(fillImage, pictureBox2.Width, pictureBox2.Height);
                             fillImage = new Bitmap(fillImage, fillImageSize);
                             button1.Enabled = true;
                             textBox1.Text = Path.GetFileName(openFileDialog1.FileName);
