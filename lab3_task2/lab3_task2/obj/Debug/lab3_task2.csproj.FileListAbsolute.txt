@@ -1,0 +1,10 @@
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\bin\Debug\lab3_task2.exe.config
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\bin\Debug\lab3_task2.exe
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\bin\Debug\lab3_task2.pdb
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\obj\Debug\lab3_task2.csprojResolveAssemblyReference.cache
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\obj\Debug\lab3_task2.Form1.resources
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\obj\Debug\lab3_task2.Properties.Resources.resources
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\obj\Debug\lab3_task2.csproj.GenerateResource.Cache
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\obj\Debug\lab3_task2.csproj.CoreCompileInputs.cache
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\obj\Debug\lab3_task2.exe
+D:\Study\4 курс\Компьютерная графика\Lab3\graphics_lab3\lab3_task2\obj\Debug\lab3_task2.pdb
